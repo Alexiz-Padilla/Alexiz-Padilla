@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiz-padilla&label=Profile%20views&color=0e75b6&style=flat" alt="alexiz-padilla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexiz-padilla" alt="alexiz-padilla" /></a> </p>
-
 - 🔭 I’m currently working on [Fun Capital](https://www.funcapital.com)
 
 - 🌱 I’m currently learning **English**
