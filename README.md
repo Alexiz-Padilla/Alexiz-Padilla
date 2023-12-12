@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiz-padilla&label=Profile%20views&color=0e75b6&style=flat" alt="alexiz-padilla" /> </p>
 
-- 🔭 I’m currently working on [Fun Capital](https://www.funcapital.com)
+- 🔭 I’m currently working on Fun Capital
 
 - 🌱 I’m currently learning **English**
 
 - 💬 Ask me about **JS**
 
-- 📫 How to reach me **alexis_padilla96@yahoo.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alexis-padilla-6433018a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alexis-padilla-6433018a" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alexis-padilla-6433018a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
